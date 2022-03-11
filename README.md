@@ -1,1 +1,1 @@
-# text-classification-naivebayes-svm
+# Text classification with Naive Bayes e SVM
